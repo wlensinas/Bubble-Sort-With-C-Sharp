@@ -1,4 +1,4 @@
-# Bubble Sort algorithm with C#
+# Bubble Sort algorithm with C Sharp
 Implementation of [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort) in C#.
 
 This is a console application, just clone or download and them execute in Visual Studio. (I recommended Visual Studio Community Edition).
